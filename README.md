@@ -1,5 +1,5 @@
 # Hi, I'm Shazia. 
-### You may also know me as Ryze 😎
+### You may also know me as Ryze
 
 # About me
 - 🌱 I’m currently learning Python, CPP, JS and React
